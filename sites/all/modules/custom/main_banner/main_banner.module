@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Main Banner feature.
+ */
+
+include_once 'main_banner.features.inc';
