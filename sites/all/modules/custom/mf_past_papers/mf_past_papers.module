@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Past Papers feature.
+ */
+
+include_once 'mf_past_papers.features.inc';
