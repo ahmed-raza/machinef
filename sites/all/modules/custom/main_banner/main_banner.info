@@ -1,7 +1,7 @@
 name = Main Banner
 description = Machine Freak's Banner Functionality.
 core = 7.x
-package = Features
+package = Machine Freak
 version = 7.x-1.0
 dependencies[] = features
 dependencies[] = flexslider_views
