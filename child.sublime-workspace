@@ -1,0 +1,358 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"remo",
+				"removeAttr"
+			],
+			[
+				"ful",
+				"full-width"
+			],
+			[
+				"gro",
+				"group-middle"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"grup",
+				"group-middle"
+			],
+			[
+				"$ima",
+				"$image_name"
+			],
+			[
+				"pre",
+				"preferences"
+			],
+			[
+				"$for",
+				"$form"
+			],
+			[
+				"$fr",
+				"$form_state"
+			],
+			[
+				"$form",
+				"$form_state"
+			],
+			[
+				"$co",
+				"$cookie_value"
+			],
+			[
+				"dat",
+				"date_field"
+			],
+			[
+				"da",
+				"date_field"
+			],
+			[
+				"tog",
+				"toggleClass"
+			],
+			[
+				"prev",
+				"preventDefault"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "packge",
+		"selected_items":
+		[
+			[
+				"packge",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/truck-api"
+	],
+	"file_history":
+	[
+		"/var/www/machinefreak/settings.php",
+		"/var/www/machinefreak/sites/all/themes/blogger_theme/css/my-style.css",
+		"/var/www/machinefreak/sites/all/themes/blogger_theme/style.css",
+		"/var/www/machinefreak/sites/all/themes/blogger_theme/templates/page.tpl.php",
+		"/var/www/untitled.php",
+		"/var/www/machinefreak/sites/all/themes/blogger_theme/blogger_theme.info",
+		"/var/www/html/drive/sites/all/themes/impact_theme/template.php",
+		"/var/www/html/drive/sites/all/themes/impact_theme/impact_theme.info",
+		"/var/www/html/drive/sites/all/themes/impact_theme/style.css",
+		"/var/www/html/drive/sites/all/themes/impact_theme/templates/page.tpl.php",
+		"/var/www/html/drive/sites/all/themes/impact_theme/theme-settings.php",
+		"/var/www/hria_web/sites/all/modules/custom/hriaweb/js/hriaweb.js",
+		"/var/www/hria_web/sites/all/modules/contrib/addtocal/addtocal.module",
+		"/var/www/hria_web/sites/all/modules/contrib/simpleads/simpleads.module",
+		"/var/www/hria_web/sites/all/modules/custom/hriaweb/hriaweb.module",
+		"/var/www/hria_web/sites/all/themes/hria_ca/js/hria-ca.behaviors.js",
+		"/var/www/hria_web/sites/default/settings.php",
+		"/var/www/hria_web/sites/all/modules/contrib/simpleads/simpleads.info",
+		"/var/www/hria_web/sites/all/modules/contrib/addtocal/addtocal.info",
+		"/var/www/hria_web/sites/all/themes/hria_ca/css/hria-ca.styles.css",
+		"/var/www/hria_web/sites/all/modules/custom/hria_articles/hria_articles.features.field_base.inc",
+		"/var/www/hria_web/sites/all/modules/custom/hria_articles/hria_articles.features.field_instance.inc",
+		"/var/www/hria_web/sites/all/modules/contrib/linkedin_company/README.md",
+		"/var/www/hria_web/sites/all/modules/contrib/linkedin_company/linkedin_company.module",
+		"/var/www/hria_web/sites/all/themes/hria_ca/templates/views-view--learn-connect.tpl.php",
+		"/var/www/hria_web/sites/all/themes/hria_ca/hria_ca.info",
+		"/var/www/hria_web/sites/all/themes/hria_ca/templates/views-view-unformatted--team-profile.tpl.php",
+		"/var/www/hria_web/sites/all/themes/hria_ca/template.php",
+		"/var/www/hria_web/modules/node/node.admin.inc",
+		"/var/www/hria_web/modules/node/node.module",
+		"/var/www/hria_web/sites/all/modules/contrib/admin_menu/admin_menu.module",
+		"/var/www/hria_web/sites/all/modules/contrib/admin_menu/admin_menu.info",
+		"/var/www/hria_web/sites/all/modules/custom/hriaweb/hriaweb.info",
+		"/var/www/hria_web/sites/all/themes/hria_ca/css/hria-ca.responsive.css",
+		"/var/www/hria_web/sites/all/modules/custom/ad/ad.info",
+		"/home/ahmed/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/var/www/arletty/sites/default/settings.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/var/www/hria_web/sites/all/modules/custom/hria_articles",
+			"/var/www/hria_web/sites/all/modules/custom",
+			"/var/www/hria_web/modules/node",
+			"/var/www/hria_web/sites/all/modules/contrib/admin_menu",
+			"/var/www/hria_web/sites/all/modules/contrib/linkedin_company"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#preface-area .block",
+			"$facebook_url",
+			"theme_get_setting",
+			"margin",
+			"block-views-ads-block-3",
+			"width",
+			"width:",
+			"width: 100%",
+			"flexslider-1",
+			"edit-field-choose-options-research-und",
+			"\n        <br>",
+			"error",
+			"_artiles_category",
+			"dummy_field_article",
+			"addtocal_render",
+			"field--name-field-save-to-calender",
+			"no",
+			"addtocal_render",
+			"ds",
+			"addtocal_render",
+			"truncate",
+			"addclass('",
+			"addclass",
+			"url",
+			"ur",
+			"calendar",
+			"field--name-body",
+			"style=\"font-size: 11.0818920135498px; line-height: 17.0439491271973px;\"",
+			"style=\"font-size: 12.006383895874px; line-height: 20.0063037872314px;\"",
+			"Non",
+			"style=\"font-size: 12.006383895874px; line-height: 20.0063037872314px;\">",
+			"style=\"font-size: 12.006383895874px; line-height: 20.0063037872314px;\"",
+			"cookie",
+			"span",
+			"?>",
+			"admin/content",
+			"admin/help/admin_menu",
+			"(':'))",
+			"        if ($(window).width() <= 320 && $('.l-region--mobile-header').is(':visible')) {\n          // $(document).delegate(\".l-region--mobile-header\", \"touchmove\", true);\n          $(document).delegate(\"body\", \"touchmove\", false);\n        };",
+			"stop",
+			"Toggle",
+			"stop",
+			"mobile",
+			"animate",
+			"/linkedin/company",
+			"/linkedin/token",
+			"/linkedin/token/@requested."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "child.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bloggerstyle",
+				"sites/all/themes/blogger_theme/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 398.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

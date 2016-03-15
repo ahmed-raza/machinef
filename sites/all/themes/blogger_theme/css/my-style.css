@@ -1,0 +1,9 @@
+#block-system-user-menu .menu li {
+  display: inline;
+  list-style: none;
+  list-style-type: none;
+  margin-right: 10px;
+}
+#comments #edit-author--2 a {
+  padding-left: 5px;
+}
