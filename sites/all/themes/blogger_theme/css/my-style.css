@@ -7,3 +7,14 @@
 #comments #edit-author--2 a {
   padding-left: 5px;
 }
+#block-views-forums-block .views-row {
+  float: left;
+  width: 33%;
+  margin-right: 10px;
+}
+#block-views-forums-block .views-field-title a {
+  color: #02aace;
+}
+#block-views-forums-block .views-field-field-subject-code div.field-content {
+  display: inline;
+}

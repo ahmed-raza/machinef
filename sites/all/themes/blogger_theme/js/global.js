@@ -1,6 +1,11 @@
 (function($) {
 	"use strict";
 	$(document).ready(function(){
+		$('#block-views-forums-block .views-field-body .field-content').each(function(){
+      $(this).succinct({
+          size: 250
+      });
+    });
 		// Main menu superfish
 		$('#main-menu > ul').superfish({
 			delay: 200,
@@ -9,7 +14,7 @@
 			cssArrows: false,
 			disableHI: true
 		});
-		
+
 		// Mobile Menu
 		$('#navigation-toggle').sidr({
 			name: 'sidr-main',

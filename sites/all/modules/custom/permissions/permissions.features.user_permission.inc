@@ -112,6 +112,8 @@ function permissions_user_default_permissions() {
     'name' => 'access devel information',
     'roles' => array(
       'Super Administrator' => 'Super Administrator',
+      'anonymous user' => 'anonymous user',
+      'authenticated user' => 'authenticated user',
     ),
     'module' => 'devel',
   );
