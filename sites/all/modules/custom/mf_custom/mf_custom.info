@@ -1,5 +1,5 @@
 name = Machine Freak Custom
-description = Custom module tweaks.
+description = Custom module for tweaks.
 core = 7.x
 package = Machine Freak
 version = 7.x-1.0
