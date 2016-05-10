@@ -1,0 +1,10 @@
+<?php
+
+function mf_custom_init() {
+  $node = menu_get_object('node');
+  if (user_is_anonymous()) {
+    if ($node->type == 'forum' && $node->taxonomy_forums['und'][0]['tid'] == 6) {
+      drupal_goto('user/login', array('query'=>array('destination'=>current_path())));
+    }
+  }
+}
