@@ -4,6 +4,7 @@ function mf_custom_init() {
   $node = menu_get_object('node');
   if (user_is_anonymous()) {
     if ($node->type == 'past_papers') {
+      drupal_set_message(t("You need to login first."), "warning");
       drupal_goto('user/login', array('query'=>array('destination'=>current_path())));
     }
   }
